@@ -12,13 +12,13 @@ Ora come ora non ci siamo mai visti dal vivo, però avessimo anche una sola ora 
 **#1 World couple**
 
 ## Check-list
-- [] Incontrati dal vivo
-- [] Primo bacio
-- [] Prime coccole
-- [] Prima nottata insieme
-- [] Prima sessione di "cardio" insieme
-- [] Prima casa da convivere
-- [] Matrimonio in comune
+-[] Incontrati dal vivo
+-[] Primo bacio
+-[] Prime coccole
+-[] Prima nottata insieme
+-[] Prima sessione di "cardio" insieme
+-[] Prima casa da convivere
+-[] Matrimonio in comune
 
 ## Quanto ci soffriamo a vicenda?
 Troppo.
