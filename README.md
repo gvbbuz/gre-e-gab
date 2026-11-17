@@ -20,5 +20,10 @@ Ora come ora non ci siamo mai visti dal vivo, però avessimo anche una sola ora 
 - [ ] Prima casa da convivere
 - [ ] Matrimonio in comune
 
+## Anagrafe
+![Gre](
+
+![Gab](
+
 ## Quanto ci soffriamo a vicenda?
 Troppo.
