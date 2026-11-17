@@ -1,6 +1,9 @@
 # Gre e Gab
 🩷🩷
 
+## Status
+Dream relationship <33
+
 ## Chi siamo?
 Siamo una coppia di sposi che si ama da quasi un anno intero.
 
@@ -21,9 +24,9 @@ Ora come ora non ci siamo mai visti dal vivo, però avessimo anche una sola ora 
 - [ ] Matrimonio in comune
 
 ## Anagrafe
-![Gre](
+![Gre](./Pictures/gree.jpeg)
 
-![Gab](
+![Gab](./Pictures/gabb.jpeg)
 
 ## Quanto ci soffriamo a vicenda?
 Troppo.
